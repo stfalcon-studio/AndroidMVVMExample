@@ -1,6 +1,6 @@
 # AndroidMVVMExample
 
-Sample project for the https://stfalcon.com/en/blog/post/android-mvvm blogpost
+This is the sample project related to the "[Let's make an MVVM at Android](https://stfalcon.com/en/blog/post/android-mvvm blogpost)" blogpost.
 
 ### License
 
